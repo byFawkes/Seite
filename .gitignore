@@ -1,9 +1,9 @@
 
-  "site": {
+"site": {
 
     "title": "Badlion Premium",
 
-    "description": "Badlion Premium ist das nächste Level im Minecraft Gaming. Große Verbesserungen in der Spieleleistung und Zugriff auf Turniere/Ligen“
+    "description": "Badlion Premium ist das nächste Level im Minecraft Gaming. Riesige Verbesserungen in der Spiel-Leistung und Zugriff auf Turniere/Ligen“
   },
 
   "articles": {
@@ -12,7 +12,7 @@
 
       "title": „Klient Anti-Cheat“,
 
-      "body": „ Multimillionen Dollar Technologie, mit Zugriff auf das Beste von ESEA und ESL Technologie, um Minecraft so cheatfrei wie noch nie zu machen
+      "body": „ Multimillionen Dollar Technologie, mit Zugriff auf die besten ESEA und ESL Technologien, um Minecraft so cheatfrei wie noch nie zu machen
       "alt": "Anti-Cheat"
 
     },
@@ -21,7 +21,7 @@
 
       "title": "128 - Ticks in der Sekunde",
 
-      "body": „Server und Klient haben beide eine TPS Steigerung von 20 bis 128. Das kreiert die bestmögliche und flüssigste Gamingerfahrung“,
+      "body": „Server und Klient haben beide eine TPS Steigerung von 20 zu 128. Das kreiert die bestmögliche und flüssigste Gamingerfahrung“,
      "alt": "128 TPS"
 
     },
@@ -32,17 +32,17 @@
 
       "title": "Niedrigster Ping",
 
-      "body": „Wir werden mehr als ein Dutzend neue Serverstandorte einführen, um den niedrigst möglichen Ping zu garantieren. Mehr Standorte erscheinen im Jahr 2017"
+      "body": „Wir werden mehr als ein Dutzend Standorte einführen, um einen möglichst niedrigen Ping zu garantieren. Mehr Standorte kommen im Jahr 2017“
 
     },
 
     "chat": {
 
-      "alt": „Chat/Freunde System",
+      "alt": „Chat/Freund System",
 
       "title": „Chat/Freund System",
 
-      "body": „Direkt in dem Badlion Pvp Client und dem Badlion Client ist ein komplettes Chat/Freunde System eingebaut um Tag und Nacht zu kommunizieren"
+      "body": „Beinhaltet im Badlion PvP Klient und in den Badlion Klient ist es ein komplettes Chat/Freunde System eingebaut, um Tag und Nacht zu kommunizieren“ 
     },
 
     "matchmaking": {
@@ -51,7 +51,7 @@
 
       "title": "Matchmaking",
 
-      "body": „Es wird möglich sein, sich entweder alleine oder mit einem Freund in einem brandneuen premium 5vs5 System einzureihen, mit neuen Spielformaten“
+      "body": „Es wird möglich sein, sich entweder alleine oder mit einem Freund in einem brandneuen premium 5vs5 System mit neuen Spielformaten einzureihen“
 
     }
 
@@ -63,9 +63,9 @@
 
     "body": [
 
-      „Zugriff auf eine neue Liga in welcher Teams gegeneinander für einen Bargeldbetrag jede neue Saison kämpfen können (für 2107 geplant)“,
+      „Zugriff auf eine neue Liga in welcher Teams in jeder neuen Season gegeneinander um einen Geldbetrag kämpfen können (für 2017 geplant)“,
 
-      „Ein spezieller Minecraftclient (Badlion PvP Client), welcher spielverbessernde Möglichkeiten enthält, um Vorteile aus 128 TPS Server zu ziehen und neue Spielmodi werden verfügbar sein. “,
+      „Ein spezieller Minecraft Klient (Badlion PvP Client), welcher spielverbessernde Möglichkeiten enthält, um Vorteile aus 128 TPS Server zu ziehen und neue Spielmodi ermöglicht. “,
 
       „Der Badlion PvP Client wird Verbesserungen beinhalten, welche das Minecraft Kompetetivgaming beeinflusst. “,
 
@@ -75,9 +75,9 @@
 
       „Scrim Server, um mit deinem Team gegen andere Teams zu jeder Zeit des Tages üben zu können.(für Anfang 2017 geplant) ,
 
-      „Ein neuer Store/ eine neue Shopping Plattform mit neuen Produkten um die allgemeinen Badlion Erfahrungen noch zu verbessern  .“,
+      „Ein neuer Store / eine neue Shopping Plattform mit neuen Produkten um die allgemeinen Badlion Erfahrungen weiter zu verbessern .“,
 
-      „Mehr erscheint im Jahre 2017"
+      „Mehr erscheint 2017"
 
     ]
 
@@ -115,7 +115,7 @@
 
       "Singapore (SG)",
 
-      „Erwartet mehr im Jahr „2107“
+      „Erwartet mehr im Jahr „2017“
 
     ]
 
