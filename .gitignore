@@ -1,0 +1,148 @@
+
+  "site": {
+
+    "title": "Badlion Premium",
+
+    "description": "Badlion Premium ist der nächste Level im Minecraft Gaming. Riesige Verbesserungen in der Spieleleistung und Zugriff auf Turniere/Ligen“
+  },
+
+  "articles": {
+
+    "antiCheat": {
+
+      "title": „Klient Anti-Cheat“,
+
+      "body": „ Multimillionen Dollar Technologie, mit Zugriff auf das Beste von ESEA und ESL Technologie, um Minecraft so cheatfrei wie noch nie zu machen
+      "alt": "Anti-Cheat"
+
+    },
+
+    "tps": {
+
+      "title": "128 - Ticks in der Sekunde",
+
+      "body": „Server und Klient haben beide eine TPS Steigerung von 20 bis 128. Das kreiert die bestmögliche und flüssigste Gamingerfahrung“,
+     "alt": "128 TPS"
+
+    },
+
+    "support": {
+
+      "alt": "Lowest Ping",
+
+      "title": "Lowest Ping",
+
+      "body": „Wir werden mehr als ein Dutzend Standorte einführen, um den niedrigst möglichen Ping zu garantieren. Mehr Standorte kommen im Jahr 2017“
+
+    },
+
+    "chat": {
+
+      "alt": „Chat/Freunde System",
+
+      "title": „Chat/Freund System",
+
+      "body": „Direkt in den Badlion PvP Klienten, und in den Badlion Client ist es ein komplettes Chat/Freunde System eingebaut, um Tag und Nacht zu kommunizieren“ 
+    },
+
+    "matchmaking": {
+
+      "alt": "Matchmaking",
+
+      "title": "Matchmaking",
+
+      "body": „Es wird möglich sein, sich entweder alleine oder mit einem Freund in einem brandneuen premium 5vs5 System einzureihen, mit neuen Spielformaten“
+
+    }
+
+  },
+
+  "features": {
+
+    "title": "features.title",
+
+    "body": [
+
+      „Zugriff auf eine neue Liga in welcher Teams gegeneinander für einen Bargeldbetrag jede neue Saison kämpfen können (für 2107 geplant)“,
+
+      „Ein spezieller Minecraftclient (Badlion PvP Client), welcher spielverbessernde Möglichkeiten enthält, um Vorteile aus 128 TPS Server zu ziehen und neue Spielmodi werden verfügbar sein. “,
+
+      „Der Badlion PvP Client wird Verbesserungen beinhalten, welche das Minecraft Kompetetivgaming beeinflusst. “,
+
+      „Spielewiederholungen, um Highlights neu zu erleben und von der Vergangenheit zu lernen.“,
+
+      „Zuschauermodus, um deinen Freunden mit einer leichten Verzögerung zuzusehen(für spät 2106/früh im Jahr 2017 geplant).“,
+
+      „Scrim Server, um mit deinem Team gegen andere Teams zu jeder Zeit des Tages üben zu können.(für Anfang 2017 geplant) ,
+
+      „Ein neuer Store/ eine neue Shopping Plattform mit neuen Produkten um die allgemeinen Badlion Erfahrungen noch zu verbessern  .“,
+
+      „Mehr erscheint im Jahre 2017"
+
+    ]
+
+  },
+
+  "locations": {
+
+    "title": „GEPLANTE SERVERPOSITIONEN (ÄNDERUNGEN SIND ZU ERWARTEN)“,
+
+    "body": [
+
+      "Los Angeles, California (US)",
+
+      "Dallas, Texas (US)",
+
+      "Chicago, Illinois (US)",
+
+      "Atlanta, Georgia (US)",
+
+      "Buffalo, New York (US)",
+
+      "Frankfurt (DE)",
+
+      "London (UK)",
+
+      "Amsterdam (NL)",
+
+      "Stockholm (SE)",
+
+      "Istanbul (TR)",
+
+      "São Paulo (BR)",
+
+      "Sydney (AU)",
+
+      "Singapore (SG)",
+
+      „Erwartet mehr im Jahr „2107“
+
+    ]
+
+  },
+
+  "updates": {
+
+    "title": „Benachrichtige mich bei Updates! ",
+
+    "placeholder": „E-Mail eingeben",
+
+    "submit": „Melde dich an"
+
+  },
+
+  "form": {
+
+    "empty": „Bitte E-Mail eingeben.“,
+
+    "invalid": „falsche E-Mail, versuche es nochmal“
+
+  },
+
+  "modal": {
+
+    "close": "Schließen"
+
+  }
+
+}
